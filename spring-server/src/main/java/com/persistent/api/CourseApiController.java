@@ -37,7 +37,7 @@ import java.util.Optional;
 import javax.annotation.Generated;
 import com.persistent.util.Constants;
 
-@Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2023-09-20T11:28:30.366976898Z[UTC]")
+@Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2023-09-21T05:24:56.683917375Z[UTC]")
 @Controller
 @RequestMapping("${openapi.swaggerStudentManagementSystemOpenAPI30.base-path:/api/v3}")
 public class CourseApiController implements CourseApi {
