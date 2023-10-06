@@ -33,7 +33,7 @@ import java.util.Optional;
 import javax.annotation.Generated;
 import com.persistent.util.Constants;
 
-@Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2023-10-06T05:47:23.653214783Z[UTC]")
+@Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2023-10-06T06:04:23.447181543Z[UTC]")
 @Validated
 @Tag(name = "student", description = "Operations about student")
 public interface StudentApi {

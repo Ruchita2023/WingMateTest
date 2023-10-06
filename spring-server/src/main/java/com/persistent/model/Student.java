@@ -21,7 +21,7 @@ import javax.persistence.Id;
  * Student
  */
 
-@Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2023-10-06T05:47:23.653214783Z[UTC]")
+@Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2023-10-06T06:04:23.447181543Z[UTC]")
 @Data
 public class Student {
 
